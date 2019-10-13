@@ -1,1 +1,1 @@
-![code output](Assignment_01 Output.png)
+![code output](assignment1/Assignment_01 Output.PNG)
