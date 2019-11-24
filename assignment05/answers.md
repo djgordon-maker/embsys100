@@ -13,3 +13,8 @@ c)
 ### Question 2
 
 ![](Assembly.png)
+
+
+### Question 3
+
+![](Div2Asm.png)
