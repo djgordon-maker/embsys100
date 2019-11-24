@@ -4,5 +4,5 @@ Then it uses STR to store the 4 variables on the stack.
 
 b) R0 and R1 holds the addresses of xPtr and yPtr respectively
 
-c) ![swap](swap_pointer)
+c) ![](swap_pointer.png)
 
