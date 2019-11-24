@@ -10,3 +10,6 @@ c)
 ![](swap_pointer.png)
 
 
+### Question 2
+
+![](Assembly.png)
