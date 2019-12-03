@@ -1,9 +1,9 @@
 ### Question 3
 
-a) Total ROM:
+a) Total ROM: 252 bytes
 
-b) Total RAM:
+b) Total RAM: 8,192 bytes
 
-c) is using the most ROM
+c) rt7M_tl.a is using the most ROM (118 bytes)
 
-d) is using the most RAM
+d) The CSTACK is using the most RAM (8,192 bytes)
